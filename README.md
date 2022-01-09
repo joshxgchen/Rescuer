@@ -8,7 +8,7 @@ Commits:
 
 Josh: 112 commits | 
 Myron: 75 commits | 
-Stephanie: 29 commits
+Stephanie: 29 commits | Rest are initial file commits
 
 
 ![Alt text](https://github.com/joshxgchen/Rescuer/blob/main/gitlab2.PNG?raw=true "Test")
