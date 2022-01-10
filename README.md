@@ -1,6 +1,7 @@
 # Rescuer
 
 **To navigate to the game code logic files, go to path \src\main\java\com\group1**
+
 **To navigate to the game test JUnit files, go to path \src\test\java\com\group1**
 
 
