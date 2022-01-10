@@ -1,7 +1,7 @@
 # Rescuer
 
-`**To navigate to the game code logic files, go to path \src\main\java\com\group1**`
-`**To navigate to the game test JUnit files, go to path \src\test\java\com\group1**`
+**To navigate to the game code logic files, go to path \src\main\java\com\group1**
+**To navigate to the game test JUnit files, go to path \src\test\java\com\group1**
 
 
 Rescuer was a game project created in my CMPT276 Game Project. It was created with 2 classmates, Myron and Stephanie in the Spring of 2021. 
